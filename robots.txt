@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ddstats.github.io/darren-dunbar-nikken/sitemap.xml
