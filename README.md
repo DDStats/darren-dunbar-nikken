@@ -1,28 +1,9 @@
 # Darren Dunbar | Nikken Products & Wellness
 
-Personal Nikken consultant website for Darren Dunbar, with product collections, store links, and selected Active Wellness Blog articles.
+[Visit the website](https://ddstats.github.io/darren-dunbar-nikken/)
 
-## Publish with GitHub Pages
+Darren Dunbar's personal Nikken consultant website brings product information and wellness reading together in one place. It introduces Nikken's water, air, sleep, nutrition, skincare, and magnetic insole collections, with links to Darren's Nikken store.
 
-In this repository, open **Settings → Pages**. Set **Source** to **Deploy from a branch**, select **main** and **/ (root)**, then save.
+The site also features selected articles from the Active Wellness Blog, helping visitors explore everyday wellness ideas and discover more about Nikken.
 
-The expected website address is https://ddstats.github.io/darren-dunbar-nikken/ . Pushing these files alone does not enable GitHub Pages.
-
-## Files and editing
-
-- `index.html`: page content, responsive styles, SEO and sharing metadata, and structured data.
-- `assets/darren-dunbar.png`: supplied profile portrait.
-- `robots.txt` and `sitemap.xml`: crawler and sitemap information.
-- `.nojekyll`: serve the static files directly.
-
-No build tools or JavaScript are required. To preview locally, run `python -m http.server 8000` from this folder and open http://localhost:8000 .
-
-All store buttons link to https://store.nikken.com/usa/en?alias=879339300 . Check checkout attribution and current product information in the Nikken store.
-
-Articles are manually curated and were selected on October 20, 2026. Update dates, source URLs, and brief original summaries when refreshing the selection.
-
-## Google Search
-
-Once Pages is publicly available, verify the URL-prefix property in Google Search Console, submit `sitemap.xml`, and request indexing. Google determines indexing and rankings; neither is guaranteed. Canonical URLs, social metadata, structured data, robots.txt, and sitemap.xml currently target the GitHub Pages address above. Update them together if using a custom domain.
-
-This is an independently operated consultant website. Nikken and product names belong to their respective trademark owners.
+[Shop Darren's Nikken store](https://store.nikken.com/usa/en?alias=879339300)
